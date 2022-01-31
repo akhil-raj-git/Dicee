@@ -17,4 +17,4 @@ Core programming concepts and syntax in Swift while building a dice app.
 
 ## Screenshots
 
-![App](https://i.imgur.com/6CTOeRH.mp4)
+![App](https://i.imgur.com/ZcXMgNP.gifv)
